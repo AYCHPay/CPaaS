@@ -55,5 +55,6 @@
     "ts-node": "^8.4.1",
     "tslint": "^5.20.0",
     "typescript": "^3.7.2"
-  }
+  },
+  "dependencies": {}
 }
